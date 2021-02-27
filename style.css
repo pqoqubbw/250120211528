@@ -1,4 +1,6 @@
-
+body {
+    max-width: 720px
+}
 .container{
     margin: 12px 17px;
 }
